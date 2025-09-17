@@ -1,0 +1,12 @@
+predictive-maintenance/
+├── data/
+│   └── NASA_turbofan_data.csv
+├── scripts/
+│   ├── preprocess_data.py
+│   ├── train_model.py
+│   └── run_dashboard.py
+├── notebooks/
+│   └── exploration.ipynb
+├── models/
+│   └── predictive_model.joblib
+└── README.md
